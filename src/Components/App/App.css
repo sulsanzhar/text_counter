@@ -1,0 +1,12 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgb(117,200,205);
+}
+
+.app h1 {
+    margin-bottom: 50px;
+}

@@ -1,0 +1,25 @@
+.Information {
+    width: 400px;
+    height: 100px;
+    background-color: black;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Information  h3 {
+    color: white;
+}
+
+.Information p {
+    color: gray;
+}
+
+.infomation-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
